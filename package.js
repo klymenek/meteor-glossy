@@ -15,5 +15,4 @@ Package.on_use(function (api, where) {
   api.add_files('lib/glossy/perf/parse-ssigncert.js', where);
   api.add_files('lib/glossy/perf/parse-sd.js', where);
   api.add_files('lib/glossy/perf/parse-ssign.js', where);
-  api.add_files('lib/glossy/perf/run_bench.js', where);
 });
