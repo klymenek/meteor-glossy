@@ -6,6 +6,7 @@ Package.on_use(function (api, where) {
   where = where || ['client', 'server'];
 
   api.add_files('lib/glossy/lib/glossy/parse.js', where);
+/*
   api.add_files('lib/glossy/lib/glossy/produce.js', where);
 
   api.add_files('lib/glossy/perf/parse-all.js', where);
@@ -15,4 +16,5 @@ Package.on_use(function (api, where) {
   api.add_files('lib/glossy/perf/parse-ssigncert.js', where);
   api.add_files('lib/glossy/perf/parse-sd.js', where);
   api.add_files('lib/glossy/perf/parse-ssign.js', where);
+*/
 });
