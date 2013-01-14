@@ -1,0 +1,8 @@
+{
+  "name": "glossy",
+  "description": "glossy repackaged for Meteor",
+  "homepage": "https://github.com/squeeks/glossy",
+  "author": "Squeeks - privacymyass@gmail.com",
+  "version": "0.1.3",
+  "git": "git://github.com/squeeks/glossy.git"
+}

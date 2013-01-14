@@ -1,0 +1,1 @@
+glossy - syslog parser repackaged for meteor

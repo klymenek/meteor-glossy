@@ -1,0 +1,3 @@
+[submodule "lib/glossy"]
+	path = lib/glossy
+	url = git://github.com/squeeks/glossy.git
